@@ -1,0 +1,298 @@
+id,Venue,Date,Name,NameTag,Team,Laps,Time,self_car,cost
+0,Great Britain,13-may-50,Nino Farina,FAR,Alfa Romeo,70,2:13:23.600,SI,11155
+1,Monaco,21-may-50,Juan Manuel Fangio,FAN,Alfa Romeo,100,3:13:18.700,SI,18813
+2,Indianapolis 500,30-may-50,Johnnie Parsons,PAR,Kurtis Kraft Offenhauser,138,2:46:55.970,SI,12523
+3,Switzerland,04-jun-50,Nino Farina,FAR,Alfa Romeo,42,2:02:53.700,NO,16837
+4,Belgium,18-jun-50,Juan Manuel Fangio,FAN,Alfa Romeo,35,2:47:26.000,SI,18354
+5,France,02-jul-50,Juan Manuel Fangio,FAN,Alfa Romeo,64,2:57:52.800,SI,19232
+6,Italy,03-sep-50,Nino Farina,FAR,Alfa Romeo,80,2:51:17.400,SI,18877
+7,Switzerland,27-may-51,Juan Manuel Fangio,FAN,Alfa Romeo,42,2:07:53.640,SI,14480
+8,Indianapolis 500,30-may-51,Lee Wallard,WAL,Kurtis Kraft Offenhauser,200,3:57:38.050,SI,17927
+9,Belgium,17-jun-51,Nino Farina,FAR,Alfa Romeo,36,2:45:46.200,SI,13113
+10,France,01-jul-51,Juan Manuel Fangio,FAN,Alfa Romeo,77,3:22:11.000,SI,13659
+12,Great Britain,14-jul-51,Jose Froilan Gonzalez,GON,Ferrari,90,2:42:18.200,SI,18750
+13,Germany,29-jul-51,Alberto Ascari,ASC,Ferrari,20,3:23:03.300,SI,17853
+14,Italy,16-sep-51,Alberto Ascari,ASC,Ferrari,80,2:42:39.300,SI,10431
+15,Spain,28-oct-51,Juan Manuel Fangio,FAN,Alfa Romeo,70,2:46:54.100,SI,17958
+16,Switzerland,18-may-52,Piero Taruffi,TAR,Ferrari,62,3:01:46.100,SI,16993
+17,Indianapolis 500,30-may-52,Troy Ruttman,RUT,Kuzma Offenhauser,200,3:52:41.880,NO,11206
+18,Belgium,22-jun-52,Alberto Ascari,ASC,Ferrari,36,3:03:46.300,SI,19967
+19,France,06-jul-52,Alberto Ascari,ASC,Ferrari,77,3:00:00.000,SI,11130
+20,Great Britain,19-jul-52,Alberto Ascari,ASC,Ferrari,85,2:44:11.000,SI,15772
+21,Germany,03-aug-52,Alberto Ascari,ASC,Ferrari,18,3:06:13.300,SI,14863
+22,Netherlands,17-aug-52,Alberto Ascari,ASC,Ferrari,90,2:53:28.500,SI,13204
+23,Italy,07-sep-52,Alberto Ascari,ASC,Ferrari,80,2:50:45.600,SI,17005
+24,Argentina,18-Jan-53,Alberto Ascari,ASC,Ferrari,97,3:01:04.600,SI,14759
+25,Indianapolis 500,30-may-53,Bill Vukovich,VUK,Kurtis Kraft Offenhauser,200,3:53:01.690,SI,13750
+26,Netherlands,07-jun-53,Alberto Ascari,ASC,Ferrari,90,2:53:35.800,SI,14947
+27,Belgium,21-jun-53,Alberto Ascari,ASC,Ferrari,36,2:48:30.300,SI,18768
+28,France,05-jul-53,Mike Hawthorn,HAW,Ferrari,60,2:44:18.600,SI,16135
+29,Great Britain,18-jul-53,Alberto Ascari,ASC,Ferrari,90,2:50:00.000,SI,18468
+30,Germany,02-aug-53,Nino Farina,FAR,Ferrari,18,3:02:25.000,SI,12783
+31,Switzerland,23-aug-53,Alberto Ascari,ASC,Ferrari,65,3:01:34.400,NO,18836
+32,Italy,13-sep-53,Juan Manuel Fangio,FAN,Maserati,80,2:49:45.900,SI,13663
+33,Argentina,17-Jan-54,Juan Manuel Fangio,FAN,Maserati,87,3:00:55.800,SI,17605
+34,Indianapolis 500,31-may-54,Bill Vukovich,VUK,Kurtis Kraft Offenhauser,200,3:49:17.270,SI,14720
+35,Belgium,20-jun-54,Juan Manuel Fangio,FAN,Maserati,36,2:44:42.400,SI,14482
+36,France,04-jul-54,Juan Manuel Fangio,FAN,Mercedes-Benz,61,2:42:47.900,SI,14854
+37,Great Britain,17-jul-54,Jose Froilan Gonzalez,GON,Ferrari,90,2:56:14.000,SI,18398
+38,Germany,01-aug-54,Juan Manuel Fangio,FAN,Mercedes-Benz,22,3:45:45.800,NO,14547
+39,Switzerland,22-aug-54,Juan Manuel Fangio,FAN,Mercedes-Benz,66,3:00:34.500,SI,15646
+40,Italy,05-sep-54,Juan Manuel Fangio,FAN,Mercedes-Benz,80,2:47:47.900,NO,12958
+41,Spain,24-oct-54,Mike Hawthorn,HAW,Ferrari,80,3:13:52.100,SI,10966
+42,Argentina,16-Jan-55,Juan Manuel Fangio,FAN,Mercedes-Benz,96,3:00:38.600,SI,12576
+43,Monaco,22-may-55,Maurice Trintignant,TRI,Ferrari,100,2:58:09.700,SI,19001
+44,Indianapolis 500,30-may-55,Bob Sweikert,SWE,Kurtis Kraft Offenhauser,200,3:53:59.530,NO,10951
+45,Belgium,05-jun-55,Juan Manuel Fangio,FAN,Mercedes-Benz,36,2:39:29.000,NO,11201
+46,Netherlands,19-jun-55,Juan Manuel Fangio,FAN,Mercedes-Benz,100,2:54:23.800,SI,14652
+47,Great Britain,16-jul-55,Stirling Moss,MOS,Mercedes-Benz,90,3:07:21.200,SI,11711
+48,Italy,11-sep-55,Juan Manuel Fangio,FAN,Mercedes-Benz,50,2:25:04.400,SI,15963
+50,Argentina,22-Jan-56,Juan Manuel Fangio,FAN,Ferrari,98,3:00:03.700,SI,19677
+51,Monaco,13-may-56,Stirling Moss,MOS,Maserati,100,3:00:32.900,SI,15457
+52,Indianapolis 500,30-may-56,Pat Flaherty,FLA,Watson Offenhauser,200,3:53:28.840,SI,11074
+53,Belgium,03-jun-56,Peter Collins,COL,Ferrari,36,2:40:00.300,SI,19049
+54,France,01-jul-56,Peter Collins,COL,Ferrari,61,2:34:23.400,SI,11086
+55,Great Britain,14-jul-56,Juan Manuel Fangio,FAN,Ferrari,101,2:59:47.000,SI,11925
+56,Germany,05-aug-56,Juan Manuel Fangio,FAN,Ferrari,22,3:38:43.700,NO,12069
+57,Italy,02-sep-56,Stirling Moss,MOS,Maserati,50,2:23:41.300,SI,16535
+58,Argentina,13-Jan-57,Juan Manuel Fangio,FAN,Maserati,100,3:00:55.900,SI,16269
+59,Monaco,19-may-57,Juan Manuel Fangio,FAN,Maserati,105,3:10:12.800,SI,12934
+60,Indianapolis 500,30-may-57,Sam Hanks,HAN,Epperly Offenhauser,200,3:41:14.250,SI,14627
+61,France,07-jul-57,Juan Manuel Fangio,FAN,Maserati,77,3:07:46.400,SI,14504
+62,Great Britain,20-jul-57,Stirling Moss,MOS,Vanwall,90,3:06:37.800,SI,17312
+64,Germany,04-aug-57,Juan Manuel Fangio,FAN,Maserati,22,3:30:38.300,SI,16111
+65,Pescara,18-aug-57,Stirling Moss,MOS,Vanwall,18,2:59:22.700,SI,16040
+66,Italy,08-sep-57,Stirling Moss,MOS,Vanwall,87,2:35:03.900,NO,14444
+67,Argentina,19-Jan-58,Stirling Moss,MOS,Cooper Climax,80,2:19:33.700,SI,17518
+68,Monaco,18-may-58,Maurice Trintignant,TRI,Cooper Climax,100,2:52:27.900,NO,17912
+69,Netherlands,26-may-58,Stirling Moss,MOS,Vanwall,75,2:04:49.200,SI,14873
+70,Indianapolis 500,30-may-58,Jimmy Bryan,BRY,Epperly Offenhauser,200,3:44:13.800,NO,16458
+71,Belgium,15-jun-58,Tony Brooks,BRO,Vanwall,24,1:37:06.300,SI,12642
+72,France,06-jul-58,Mike Hawthorn,HAW,Ferrari,50,2:03:21.300,SI,10297
+73,Great Britain,19-jul-58,Peter Collins,COL,Ferrari,75,2:09:04.200,SI,17773
+74,Germany,03-aug-58,Tony Brooks,BRO,Vanwall,15,2:21:15.000,NO,16656
+75,Portugal,24-aug-58,Stirling Moss,MOS,Vanwall,50,2:11:27.800,SI,11321
+76,Italy,07-sep-58,Tony Brooks,BRO,Vanwall,70,2:03:47.800,NO,10961
+77,Morocco,19-oct-58,Stirling Moss,MOS,Vanwall,53,2:09:15.100,SI,13630
+78,Monaco,10-may-59,Jack Brabham,BRA,Cooper Climax,100,2:55:51.300,SI,15722
+79,Indianapolis 500,30-may-59,Rodger Ward,WAR,Watson Offenhauser,200,3:40:49.200,NO,15093
+80,Netherlands,31-may-59,Jo Bonnier,BON,BRM,75,2:05:26.800,SI,11764
+81,France,05-jul-59,Tony Brooks,BRO,Ferrari,50,2:01:26.500,SI,10526
+82,Great Britain,18-jul-59,Jack Brabham,BRA,Cooper Climax,75,2:30:11.600,SI,12720
+83,Germany,02-aug-59,Tony Brooks,BRO,Ferrari,60,2:09:31.600,SI,14916
+84,Portugal,23-aug-59,Stirling Moss,MOS,Cooper Climax,62,2:11:55.410,SI,19115
+85,Italy,13-sep-59,Stirling Moss,MOS,Cooper Climax,72,2:04:05.400,SI,11025
+86,United States,12-Dec-59,Bruce McLaren,MCL,Cooper Climax,42,2:12:35.700,SI,10522
+87,Argentina,07-feb-60,Bruce McLaren,MCL,Cooper Climax,80,2:17:49.500,SI,17061
+88,Monaco,29-may-60,Stirling Moss,MOS,Lotus Climax,100,2:53:45.500,SI,12131
+89,Indianapolis 500,30-may-60,Jim Rathmann,RAT,Watson Offenhauser,200,3:36:11.360,SI,10680
+90,Netherlands,06-jun-60,Jack Brabham,BRA,Cooper Climax,75,2:01:47.200,NO,17207
+91,Belgium,19-jun-60,Jack Brabham,BRA,Cooper Climax,36,2:21:37.300,SI,19130
+92,France,03-jul-60,Jack Brabham,BRA,Cooper Climax,50,1:57:24.900,SI,10187
+93,Great Britain,16-jul-60,Jack Brabham,BRA,Cooper Climax,77,2:04:24.600,SI,19090
+94,Portugal,14-aug-60,Jack Brabham,BRA,Cooper Climax,55,2:19:00.030,SI,13437
+95,Italy,04-sep-60,Phil Hill,HIL,Ferrari,50,2:21:09.200,NO,10018
+96,United States,20-nov-60,Stirling Moss,MOS,Lotus Climax,75,2:28:52.200,SI,18052
+97,Monaco,14-may-61,Stirling Moss,MOS,Lotus Climax,100,2:45:50.100,SI,15516
+98,Netherlands,22-may-61,Wolfgang von Trips,VON,Ferrari,75,2:01:52.100,SI,15741
+99,Belgium,18-jun-61,Phil Hill,HIL,Ferrari,30,2:03:03.800,SI,11249
+100,France,02-jul-61,Giancarlo Baghetti,BAG,Ferrari,52,2:14:17.500,SI,13050
+101,Great Britain,15-jul-61,Wolfgang von Trips,VON,Ferrari,75,2:40:53.600,NO,19024
+102,Germany,06-aug-61,Stirling Moss,MOS,Lotus Climax,15,2:18:12.400,SI,13192
+103,Italy,10-sep-61,Phil Hill,HIL,Ferrari,43,2:03:13.000,SI,10852
+104,United States,08-oct-61,Innes Ireland,IRE,Lotus Climax,100,2:13:45.800,SI,13108
+105,Netherlands,20-may-62,Graham Hill,HIL,BRM,80,2:11:02.100,NO,14670
+106,Monaco,03-jun-62,Bruce McLaren,MCL,Cooper Climax,100,2:46:29.700,SI,18602
+107,Belgium,17-jun-62,Jim Clark,CLA,Lotus Climax,32,2:07:32.300,NO,15458
+108,France,08-jul-62,Dan Gurney,GUR,Porsche,54,2:07:35.500,SI,17708
+109,Great Britain,21-jul-62,Jim Clark,CLA,Lotus Climax,75,2:26:20.800,SI,18326
+110,Germany,05-aug-62,Graham Hill,HIL,BRM,15,2:38:45.300,NO,13910
+111,Italy,16-sep-62,Graham Hill,HIL,BRM,86,2:29:08.400,NO,13456
+112,United States,07-oct-62,Jim Clark,CLA,Lotus Climax,100,2:07:13.000,NO,17868
+113,South Africa,29-Dec-62,Graham Hill,HIL,BRM,82,2:08:03.300,SI,17413
+114,Monaco,26-may-63,Graham Hill,HIL,BRM,100,2:41:49.700,SI,10333
+115,Belgium,09-jun-63,Jim Clark,CLA,Lotus Climax,32,2:27:47.600,SI,10188
+116,Netherlands,23-jun-63,Jim Clark,CLA,Lotus Climax,80,2:08:13.700,SI,13351
+117,France,30-jun-63,Jim Clark,CLA,Lotus Climax,53,2:10:54.300,SI,19552
+118,Great Britain,20-jul-63,Jim Clark,CLA,Lotus Climax,82,2:14:09.600,SI,18113
+119,Germany,04-aug-63,John Surtees,SUR,Ferrari,15,2:13:06.800,SI,18230
+120,Italy,08-sep-63,Jim Clark,CLA,Lotus Climax,86,2:24:19.600,SI,14240
+121,United States,06-oct-63,Graham Hill,HIL,BRM,110,2:19:22.100,SI,11534
+122,Mexico,27-oct-63,Jim Clark,CLA,Lotus Climax,65,2:09:52.100,NO,14503
+123,South Africa,28-Dec-63,Jim Clark,CLA,Lotus Climax,85,2:10:36.900,SI,13785
+124,Monaco,10-may-64,Graham Hill,HIL,BRM,100,2:41:19.500,SI,11043
+125,Netherlands,24-may-64,Jim Clark,CLA,Lotus Climax,80,2:07:35.400,SI,11631
+126,Belgium,14-jun-64,Jim Clark,CLA,Lotus Climax,32,2:06:40.500,SI,10717
+127,France,28-jun-64,Dan Gurney,GUR,Brabham Climax,57,2:07:49.100,SI,14556
+128,Great Britain,11-jul-64,Jim Clark,CLA,Lotus Climax,80,2:15:07.000,SI,18490
+129,Germany,02-aug-64,John Surtees,SUR,Ferrari,15,2:12:04.800,SI,17781
+130,Austria,23-aug-64,Lorenzo Bandini,BAN,Ferrari,105,2:06:18.230,SI,16752
+131,Italy,06-sep-64,John Surtees,SUR,Ferrari,78,2:10:51.800,SI,19294
+132,United States,04-oct-64,Graham Hill,HIL,BRM,110,2:16:38.000,NO,10402
+133,Mexico,25-oct-64,Dan Gurney,GUR,Brabham Climax,65,2:09:50.320,SI,19537
+134,South Africa,01-Jan-65,Jim Clark,CLA,Lotus Climax,85,2:06:46.000,SI,18206
+135,Monaco,30-may-65,Graham Hill,HIL,BRM,100,2:37:39.600,SI,13179
+136,Belgium,13-jun-65,Jim Clark,CLA,Lotus Climax,32,2:23:34.800,SI,14099
+137,France,27-jun-65,Jim Clark,CLA,Lotus Climax,40,2:14:38.400,SI,17455
+138,Great Britain,10-jul-65,Jim Clark,CLA,Lotus Climax,80,2:05:25.400,SI,19219
+139,Netherlands,18-jul-65,Jim Clark,CLA,Lotus Climax,80,2:03:59.100,SI,11052
+140,Germany,01-aug-65,Jim Clark,CLA,Lotus Climax,15,2:07:52.400,SI,14134
+141,Italy,12-sep-65,Jackie Stewart,STE,BRM,76,2:04:52.800,SI,14367
+142,United States,03-oct-65,Graham Hill,HIL,BRM,110,2:20:36.100,SI,13104
+143,Mexico,24-oct-65,Richie Ginther,GIN,Honda,65,2:08:32.100,SI,10693
+144,Monaco,22-may-66,Jackie Stewart,STE,BRM,100,2:33:10.500,NO,13003
+145,Belgium,12-jun-66,John Surtees,SUR,Ferrari,28,2:09:11.300,SI,10520
+146,France,03-jul-66,Jack Brabham,BRA,Brabham Repco,48,1:48:31.300,SI,15285
+147,Great Britain,16-jul-66,Jack Brabham,BRA,Brabham Repco,80,2:13:13.400,SI,15211
+148,Netherlands,24-jul-66,Jack Brabham,BRA,Brabham Repco,90,2:20:32.500,NO,10246
+149,Germany,07-aug-66,Jack Brabham,BRA,Brabham Repco,15,2:27:03.000,SI,15281
+150,Italy,04-sep-66,Ludovico Scarfiotti,SCA,Ferrari,68,1:47:14.800,SI,16056
+151,United States,02-oct-66,Jim Clark,CLA,Lotus BRM,108,2:09:40.100,SI,18631
+152,Mexico,23-oct-66,John Surtees,SUR,Cooper Maserati,65,2:06:35.340,SI,18622
+153,South Africa,02-Jan-67,Pedro Rodriguez,ROD,Cooper Maserati,80,2:05:45.900,SI,12823
+154,Monaco,07-may-67,Denny Hulme,HUL,Brabham Repco,100,2:34:34.300,SI,12156
+155,Netherlands,04-jun-67,Jim Clark,CLA,Lotus Ford,90,2:14:45.100,SI,15714
+156,Belgium,18-jun-67,Dan Gurney,GUR,Eagle Weslake,28,1:40:49.400,SI,10279
+157,France,02-jul-67,Jack Brabham,BRA,Brabham Repco,80,2:13:21.300,SI,14271
+158,Great Britain,15-jul-67,Jim Clark,CLA,Lotus Ford,80,1:59:25.600,SI,13518
+159,Germany,06-aug-67,Denny Hulme,HUL,Brabham Repco,15,2:05:55.700,SI,16580
+160,Canada,27-aug-67,Jack Brabham,BRA,Brabham Repco,90,2:40:40.000,SI,16628
+161,Italy,10-sep-67,John Surtees,SUR,Honda,68,1:43:45.000,NO,12585
+162,United States,01-oct-67,Jim Clark,CLA,Lotus Ford,108,2:03:13.200,SI,15769
+163,Mexico,22-oct-67,Jim Clark,CLA,Lotus Ford,65,1:59:28.700,SI,10636
+164,South Africa,01-Jan-68,Jim Clark,CLA,Lotus Ford,80,1:53:56.600,NO,15993
+165,Spain,12-may-68,Graham Hill,HIL,Lotus Ford,90,2:15:20.100,SI,10500
+166,Monaco,26-may-68,Graham Hill,HIL,Lotus Ford,80,2:00:32.300,SI,14332
+167,Belgium,09-jun-68,Bruce McLaren,MCL,McLaren Ford,28,1:40:02.100,SI,15085
+168,Netherlands,23-jun-68,Jackie Stewart,STE,Matra Ford,90,2:46:11.260,SI,19035
+169,France,07-jul-68,Jacky Ickx,ICK,Ferrari,60,2:25:40.900,SI,11875
+170,Great Britain,20-jul-68,Jo Siffert,SIF,Lotus Ford,80,2:01:20.300,SI,13161
+171,Germany,04-aug-68,Jackie Stewart,STE,Matra Ford,14,2:19:03.200,SI,17369
+172,Italy,08-sep-68,Denny Hulme,HUL,McLaren Ford,68,1:40:14.800,SI,13317
+173,Canada,22-sep-68,Denny Hulme,HUL,McLaren Ford,90,2:27:11.200,SI,11872
+174,United States,06-oct-68,Jackie Stewart,STE,Matra Ford,108,1:59:20.290,SI,10266
+175,Mexico,03-nov-68,Graham Hill,HIL,Lotus Ford,65,1:56:43.950,NO,18008
+176,South Africa,01-mar-69,Jackie Stewart,STE,Matra Ford,80,1:50:39.100,NO,13046
+177,Spain,04-may-69,Jackie Stewart,STE,Matra Ford,90,2:16:53.990,SI,17389
+178,Monaco,18-may-69,Graham Hill,HIL,Lotus Ford,80,1:56:59.400,NO,19713
+179,Netherlands,21-jun-69,Jackie Stewart,STE,Matra Ford,90,2:06:42.080,SI,14170
+180,France,06-jul-69,Jackie Stewart,STE,Matra Ford,38,1:56:47.400,SI,17639
+181,Great Britain,19-jul-69,Jackie Stewart,STE,Matra Ford,84,1:55:55.600,NO,17727
+182,Germany,03-aug-69,Jacky Ickx,ICK,Brabham Ford,14,1:49:55.400,SI,15722
+183,Italy,07-sep-69,Jackie Stewart,STE,Matra Ford,68,1:39:11.260,SI,18976
+184,Canada,20-sep-69,Jacky Ickx,ICK,Brabham Ford,90,1:59:25.700,SI,10358
+185,United States,05-oct-69,Jochen Rindt,RIN,Lotus Ford,108,1:57:56.840,SI,11654
+186,Mexico,19-oct-69,Denny Hulme,HUL,McLaren Ford,65,1:54:08.800,SI,10523
+187,South Africa,07-mar-70,Jack Brabham,BRA,Brabham Ford,80,1:49:34.600,NO,15887
+188,Spain,19-apr-70,Jackie Stewart,STE,March Ford,90,2:10:58.200,NO,16891
+189,Monaco,10-may-70,Jochen Rindt,RIN,Lotus Ford,80,1:54:36.600,SI,19469
+190,Belgium,07-jun-70,Pedro Rodriguez,ROD,BRM,28,1:38:09.900,SI,12835
+191,Netherlands,21-jun-70,Jochen Rindt,RIN,Lotus Ford,80,1:50:43.410,NO,16418
+192,France,05-jul-70,Jochen Rindt,RIN,Lotus Ford,38,1:55:57.000,SI,18339
+193,Great Britain,18-jul-70,Jochen Rindt,RIN,Lotus Ford,80,1:57:02.000,SI,17840
+194,Germany,02-aug-70,Jochen Rindt,RIN,Lotus Ford,50,1:42:00.300,NO,15949
+195,Austria,16-aug-70,Jacky Ickx,ICK,Ferrari,60,1:42:17.320,SI,17460
+196,Italy,06-sep-70,Clay Regazzoni,REG,Ferrari,68,1:39:06.880,NO,12009
+197,Canada,20-sep-70,Jacky Ickx,ICK,Ferrari,90,2:21:18.400,SI,11735
+198,United States,04-oct-70,Emerson Fittipaldi,FIT,Lotus Ford,108,1:57:32.790,SI,14880
+199,Mexico,25-oct-70,Jacky Ickx,ICK,Ferrari,65,1:53:28.360,SI,16707
+200,South Africa,06-mar-71,Mario Andretti,AND,Ferrari,79,1:47:35.500,SI,12586
+201,Spain,18-apr-71,Jackie Stewart,STE,Tyrrell Ford,75,1:49:03.400,SI,19469
+202,Monaco,23-may-71,Jackie Stewart,STE,Tyrrell Ford,80,1:52:21.300,SI,18951
+203,Netherlands,20-jun-71,Jacky Ickx,ICK,Ferrari,70,1:56:20.090,SI,17837
+204,France,04-jul-71,Jackie Stewart,STE,Tyrrell Ford,55,1:46:41.680,SI,12347
+205,Great Britain,17-jul-71,Jackie Stewart,STE,Tyrrell Ford,68,1:31:31.500,SI,18195
+206,Germany,01-aug-71,Jackie Stewart,STE,Tyrrell Ford,12,1:29:15.700,SI,12295
+207,Austria,15-aug-71,Jo Siffert,SIF,BRM,54,1:30:23.910,NO,12674
+208,Italy,05-sep-71,Peter Gethin,GET,BRM,55,1:18:12.600,SI,12012
+209,Canada,19-sep-71,Jackie Stewart,STE,Tyrrell Ford,64,1:55:12.900,NO,13272
+210,United States,03-oct-71,Francois Cevert,CEV,Tyrrell Ford,59,1:43:51.991,SI,11660
+211,Argentina,23-Jan-72,Jackie Stewart,STE,Tyrrell Ford,95,1:57:58.820,SI,15443
+212,South Africa,04-mar-72,Denny Hulme,HUL,McLaren Ford,79,1:45:49.100,SI,17561
+213,Spain,01-may-72,Emerson Fittipaldi,FIT,Lotus Ford,90,2:03:41.230,SI,14662
+214,Monaco,14-may-72,Jean-Pierre Beltoise,BEL,BRM,80,2:26:54.700,NO,18861
+215,Belgium,04-jun-72,Emerson Fittipaldi,FIT,Lotus Ford,85,1:44:06.700,SI,17289
+216,France,02-jul-72,Jackie Stewart,STE,Tyrrell Ford,38,1:52:21.500,NO,16664
+217,Great Britain,15-jul-72,Emerson Fittipaldi,FIT,Lotus Ford,76,1:47:50.200,NO,14312
+218,Germany,30-jul-72,Jacky Ickx,ICK,Ferrari,14,1:42:12.300,NO,11190
+219,Austria,13-aug-72,Emerson Fittipaldi,FIT,Lotus Ford,54,1:29:16.660,SI,19938
+220,Italy,10-sep-72,Emerson Fittipaldi,FIT,Lotus Ford,55,1:29:58.400,SI,19550
+221,Canada,24-sep-72,Jackie Stewart,STE,Tyrrell Ford,80,1:43:16.900,SI,17997
+222,United States,08-oct-72,Jackie Stewart,STE,Tyrrell Ford,59,1:41:45.354,NO,10759
+223,Argentina,28-Jan-73,Emerson Fittipaldi,FIT,Lotus Ford,96,1:56:18.220,SI,18963
+224,Brazil,11-feb-73,Emerson Fittipaldi,FIT,Lotus Ford,40,1:43:55.600,SI,19409
+225,South Africa,03-mar-73,Jackie Stewart,STE,Tyrrell Ford,79,1:43:11.070,NO,14214
+226,Spain,29-apr-73,Emerson Fittipaldi,FIT,Lotus Ford,75,1:48:18.700,NO,16825
+227,Belgium,20-may-73,Jackie Stewart,STE,Tyrrell Ford,70,1:42:13.430,NO,19386
+228,Monaco,03-jun-73,Jackie Stewart,STE,Tyrrell Ford,78,1:57:44.300,SI,14831
+229,Sweden,17-jun-73,Denny Hulme,HUL,McLaren Ford,80,1:56:46.049,SI,15874
+230,France,01-jul-73,Ronnie Peterson,PET,Lotus Ford,54,1:41:36.520,NO,15533
+231,Great Britain,14-jul-73,Peter Revson,REV,McLaren Ford,67,1:29:18.500,SI,14132
+232,Netherlands,29-jul-73,Jackie Stewart,STE,Tyrrell Ford,72,1:39:12.450,NO,18210
+233,Germany,05-aug-73,Jackie Stewart,STE,Tyrrell Ford,14,1:42:03.000,SI,15986
+234,Austria,19-aug-73,Ronnie Peterson,PET,Lotus Ford,54,1:28:48.780,SI,17917
+235,Italy,09-sep-73,Ronnie Peterson,PET,Lotus Ford,55,1:29:17.000,SI,11203
+236,Canada,23-sep-73,Peter Revson,REV,McLaren Ford,80,1:59:04.083,SI,16871
+237,United States,07-oct-73,Ronnie Peterson,PET,Lotus Ford,59,1:41:15.799,SI,10616
+238,Argentina,13-Jan-74,Denny Hulme,HUL,McLaren Ford,53,1:41:02.010,SI,15651
+239,Brazil,27-Jan-74,Emerson Fittipaldi,FIT,McLaren Ford,32,1:24:37.060,SI,12689
+240,South Africa,30-mar-74,Carlos Reutemann,REU,Brabham Ford,78,1:42:40.960,SI,14224
+241,Spain,28-apr-74,Niki Lauda,LAU,Ferrari,84,2:00:29.560,SI,16526
+242,Belgium,12-may-74,Emerson Fittipaldi,FIT,McLaren Ford,85,1:44:20.570,SI,16708
+243,Monaco,26-may-74,Ronnie Peterson,PET,Lotus Ford,78,1:58:03.700,SI,16174
+244,Sweden,09-jun-74,Jody Scheckter,SCH,Tyrrell Ford,80,1:58:31.391,SI,17314
+245,Netherlands,23-jun-74,Niki Lauda,LAU,Ferrari,75,1:43:00.350,SI,11751
+246,France,07-jul-74,Ronnie Peterson,PET,Lotus Ford,80,1:21:55.020,NO,18126
+247,Great Britain,20-jul-74,Jody Scheckter,SCH,Tyrrell Ford,75,1:43:02.200,SI,16570
+248,Germany,04-aug-74,Clay Regazzoni,REG,Ferrari,14,1:41:35.000,SI,17447
+249,Austria,18-aug-74,Carlos Reutemann,REU,Brabham Ford,54,1:28:44.720,SI,19945
+250,Italy,08-sep-74,Ronnie Peterson,PET,Lotus Ford,52,1:22:56.600,NO,13160
+251,Canada,22-sep-74,Emerson Fittipaldi,FIT,McLaren Ford,80,1:40:26.136,SI,12060
+252,United States,06-oct-74,Carlos Reutemann,REU,Brabham Ford,59,1:40:21.439,SI,17428
+253,Argentina,12-Jan-75,Emerson Fittipaldi,FIT,McLaren Ford,53,1:39:26.290,SI,18231
+254,Brazil,26-Jan-75,Carlos Pace,PAC,Brabham Ford,40,1:44:41.170,NO,10995
+255,South Africa,01-mar-75,Jody Scheckter,SCH,Tyrrell Ford,78,1:43:16.900,SI,10786
+256,Spain,27-apr-75,MAS,MAS,McLaren Ford,29,00:42:53.700,SI,10619
+257,Monaco,11-may-75,Niki Lauda,LAU,Ferrari,75,2:01:21.310,NO,18221
+258,Belgium,25-may-75,Niki Lauda,LAU,Ferrari,70,1:43:53.980,SI,15492
+259,Sweden,08-jun-75,Niki Lauda,LAU,Ferrari,80,1:59:18.319,SI,17739
+260,Netherlands,22-jun-75,James Hunt,HUN,Hesketh Ford,75,1:46:57.400,SI,17852
+261,France,06-jul-75,Niki Lauda,LAU,Ferrari,54,1:40:18.840,SI,11221
+262,Great Britain,19-jul-75,Emerson Fittipaldi,FIT,McLaren Ford,56,1:22:05.000,SI,12751
+263,Germany,03-aug-75,Carlos Reutemann,REU,Brabham Ford,14,1:41:14.100,NO,15107
+264,Austria,17-aug-75,Vittorio Brambilla,BRA,March Ford,29,0:57:56.690,NO,11682
+265,Italy,07-sep-75,Clay Regazzoni,REG,Ferrari,52,1:22:42.600,SI,14670
+266,United States,05-oct-75,Niki Lauda,LAU,Ferrari,59,1:42:58.175,NO,11257
+267,Brazil,25-Jan-76,Niki Lauda,LAU,Ferrari,40,1:45:16.780,SI,10770
+268,South Africa,06-mar-76,Niki Lauda,LAU,Ferrari,78,1:42:18.400,SI,10436
+269,USA West,28-mar-76,Clay Regazzoni,REG,Ferrari,80,1:53:18.471,SI,14043
+270,Spain,02-may-76,James Hunt,HUN,McLaren Ford,75,1:42:20.430,SI,19070
+271,Belgium,16-may-76,Niki Lauda,LAU,Ferrari,70,1:42:53.230,SI,15698
+272,Monaco,30-may-76,Niki Lauda,LAU,Ferrari,78,1:59:51.470,SI,15765
+273,Sweden,13-jun-76,Jody Scheckter,SCH,Tyrrell Ford,72,1:46:53.729,SI,16110
+274,France,04-jul-76,James Hunt,HUN,McLaren Ford,54,1:40:58.600,SI,11317
+275,Great Britain,18-jul-76,Niki Lauda,LAU,Ferrari,76,1:44:19.660,NO,15915
+276,Germany,01-aug-76,James Hunt,HUN,McLaren Ford,14,1:41:42.700,SI,19429
+277,Austria,15-aug-76,John Watson,WAT,Penske Ford,54,1:30:07.860,NO,13400
+278,Netherlands,29-aug-76,James Hunt,HUN,McLaren Ford,75,1:44:52.090,NO,14126
+279,Italy,12-sep-76,Ronnie Peterson,PET,March Ford,52,1:30:35.600,SI,10867
+280,Canada,03-oct-76,James Hunt,HUN,McLaren Ford,80,1:40:09.626,NO,13631
+281,USA East,10-oct-76,James Hunt,HUN,McLaren Ford,59,1:42:40.741,SI,10849
+282,Japan,24-oct-76,Mario Andretti,AND,Lotus Ford,73,1:43:58.860,SI,10937
+283,Argentina,09-Jan-77,Jody Scheckter,SCH,Wolf Ford,53,1:40:11.190,SI,11741
+284,Brazil,23-Jan-77,Carlos Reutemann,REU,Ferrari,40,1:45:07.720,SI,10837
+285,South Africa,05-mar-77,Niki Lauda,LAU,Ferrari,78,1:42:21.600,SI,14827
+286,USA West,03-apr-77,Mario Andretti,AND,Lotus Ford,80,1:51:35.470,SI,17985
+287,Spain,08-may-77,Mario Andretti,AND,Lotus Ford,75,1:42:52.220,SI,13054
+288,Monaco,22-may-77,Jody Scheckter,SCH,Wolf Ford,76,1:57:52.770,SI,17736
+289,Belgium,05-jun-77,Gunnar Nilsson,NIL,Lotus Ford,70,1:55:05.710,SI,13478
+290,Sweden,19-jun-77,Jacques Laffite,LAF,Ligier Matra,72,1:46:55.520,NO,11714
+291,France,03-jul-77,Mario Andretti,AND,Lotus Ford,80,1:39:40.130,SI,17379
+292,Great Britain,16-jul-77,James Hunt,HUN,McLaren Ford,68,1:31:46.060,SI,12662
+293,Germany,31-jul-77,Niki Lauda,LAU,Ferrari,47,1:31:48.620,SI,18314
+294,Austria,14-aug-77,Alan Jones,JON,Shadow Ford,54,1:37:16.490,NO,15800
+295,Netherlands,28-aug-77,Niki Lauda,LAU,Ferrari,75,1:41:45.930,SI,15253
+296,Italy,11-sep-77,Mario Andretti,AND,Lotus Ford,52,1:27:50.300,SI,18196
+297,USA East,02-oct-77,James Hunt,HUN,McLaren Ford,59,1:58:23.267,SI,18389
+298,Canada,09-oct-77,Jody Scheckter,SCH,Wolf Ford,80,1:40:00.000,SI,19696
+299,Japan,23-oct-77,James Hunt,HUN,McLaren Ford,73,1:31:51.680,NO,11412
